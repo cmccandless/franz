@@ -1,3 +1,9 @@
+<a name="5.1.0-beta.1"></a>
+# [5.1.0-beta-1](https://github.com/cmccandless/franz/compare/v5.0.0-beta.18...v5.1.0-beta.1) (2018-09-11)
+
+### General
+* **Appearance:** Updated stylesheets and added darkMode variable and toggle ([25c6cbd](https://github.com/cmccandless/franz/commit/25c6cbd29aff90f694d72afe28ab56b0113fb16a))*
+
 <a name="5.0.0-beta.18"></a>
 # [5.0.0-beta.18](https://github.com/meetfranz/franz/compare/v5.0.0-beta.16...v5.0.0-beta.18) (2018-04-03)
 

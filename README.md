@@ -20,6 +20,11 @@ Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and many many mor
 #### Install Linux OS dependencies
 [Guide: Linux distribution specific dependencies](docs/linux.md)
 
+#### Install Project Dependencies
+```bash
+$ npm install
+```
+
 #### Install yarn
 ##### MacOS
 ```bash
